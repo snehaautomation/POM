@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="163826" started-at="2018-06-21T21:34:16Z" finished-at="2018-06-21T21:37:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="163826" started-at="2018-06-21T21:34:16Z" finished-at="2018-06-21T21:37:00Z">
+      <class name="amazon.qa.testcases.UserAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.UserAccountPageTest@17e1986]" name="setup" is-config="true" duration-ms="16894" started-at="2018-06-21T14:35:57Z" finished-at="2018-06-21T14:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="UserAccntTest()[pri:1, instance:amazon.qa.testcases.UserAccountPageTest@17e1986]" name="UserAccntTest" duration-ms="73" started-at="2018-06-21T14:36:13Z" finished-at="2018-06-21T14:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserAccntTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.UserAccountPageTest@17e1986]" name="teardown" is-config="true" duration-ms="2645" started-at="2018-06-21T14:36:13Z" finished-at="2018-06-21T14:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.UserAccountPageTest -->
+      <class name="amazon.qa.testcases.CreateAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="setup" is-config="true" duration-ms="12767" started-at="2018-06-21T14:34:17Z" finished-at="2018-06-21T14:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateAccTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="CreateAccTest" duration-ms="1404" started-at="2018-06-21T14:34:30Z" data-provider="getAmazonTestData" finished-at="2018-06-21T14:34:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rocky5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rocky5@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mybestbuddy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="teardown" is-config="true" duration-ms="2641" started-at="2018-06-21T14:34:31Z" finished-at="2018-06-21T14:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="setup" is-config="true" duration-ms="11108" started-at="2018-06-21T14:34:34Z" finished-at="2018-06-21T14:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateAccTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="CreateAccTest" duration-ms="1395" started-at="2018-06-21T14:34:45Z" data-provider="getAmazonTestData" finished-at="2018-06-21T14:34:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rocky6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rocky6@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mybestbuddy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="teardown" is-config="true" duration-ms="2643" started-at="2018-06-21T14:34:46Z" finished-at="2018-06-21T14:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="setup" is-config="true" duration-ms="11411" started-at="2018-06-21T14:34:49Z" finished-at="2018-06-21T14:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateAccTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="CreateAccTest" duration-ms="1304" started-at="2018-06-21T14:35:01Z" data-provider="getAmazonTestData" finished-at="2018-06-21T14:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rocky7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rocky7@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mybestbuddy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.CreateAccountPageTest@b4c3ab]" name="teardown" is-config="true" duration-ms="2646" started-at="2018-06-21T14:35:02Z" finished-at="2018-06-21T14:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.CreateAccountPageTest -->
+      <class name="amazon.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="setup" is-config="true" duration-ms="11351" started-at="2018-06-21T14:35:20Z" finished-at="2018-06-21T14:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AmazonLogoTest()[pri:1, instance:amazon.qa.testcases.HomePageTest@843fce]" name="AmazonLogoTest" duration-ms="2430" started-at="2018-06-21T14:35:31Z" finished-at="2018-06-21T14:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonLogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="teardown" is-config="true" duration-ms="634" started-at="2018-06-21T14:35:34Z" finished-at="2018-06-21T14:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="setup" is-config="true" duration-ms="11868" started-at="2018-06-21T14:36:31Z" finished-at="2018-06-21T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SigninTest()[pri:2, instance:amazon.qa.testcases.HomePageTest@843fce]" name="SigninTest" duration-ms="3460" started-at="2018-06-21T14:36:43Z" finished-at="2018-06-21T14:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="teardown" is-config="true" duration-ms="624" started-at="2018-06-21T14:36:46Z" finished-at="2018-06-21T14:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="setup" is-config="true" duration-ms="10677" started-at="2018-06-21T14:36:47Z" finished-at="2018-06-21T14:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GiftCardsTest()[pri:3, instance:amazon.qa.testcases.HomePageTest@843fce]" name="GiftCardsTest" duration-ms="2096" started-at="2018-06-21T14:36:58Z" finished-at="2018-06-21T14:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@843fce]" name="teardown" is-config="true" duration-ms="645" started-at="2018-06-21T14:37:00Z" finished-at="2018-06-21T14:37:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.HomePageTest -->
+      <class name="amazon.qa.testcases.EmailSignInPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="setup" is-config="true" duration-ms="10893" started-at="2018-06-21T14:35:04Z" finished-at="2018-06-21T14:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="emailTest()[pri:1, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="emailTest" duration-ms="828" started-at="2018-06-21T14:35:15Z" finished-at="2018-06-21T14:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="teardown" is-config="true" duration-ms="3647" started-at="2018-06-21T14:35:16Z" finished-at="2018-06-21T14:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="setup" is-config="true" duration-ms="10762" started-at="2018-06-21T14:36:16Z" finished-at="2018-06-21T14:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAccountPageTest()[pri:2, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="createAccountPageTest" duration-ms="384" started-at="2018-06-21T14:36:27Z" finished-at="2018-06-21T14:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountPageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@1c78c0b]" name="teardown" is-config="true" duration-ms="3637" started-at="2018-06-21T14:36:27Z" finished-at="2018-06-21T14:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.EmailSignInPageTest -->
+      <class name="amazon.qa.testcases.PwdSignInPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.PwdSignInPageTest@1dd3bcd]" name="setup" is-config="true" duration-ms="13864" started-at="2018-06-21T14:35:34Z" finished-at="2018-06-21T14:35:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pwdTest()[pri:1, instance:amazon.qa.testcases.PwdSignInPageTest@1dd3bcd]" name="pwdTest" duration-ms="4749" started-at="2018-06-21T14:35:48Z" finished-at="2018-06-21T14:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pwdTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.PwdSignInPageTest@1dd3bcd]" name="teardown" is-config="true" duration-ms="3640" started-at="2018-06-21T14:35:53Z" finished-at="2018-06-21T14:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.PwdSignInPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

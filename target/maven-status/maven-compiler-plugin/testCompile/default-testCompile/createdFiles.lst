@@ -1,0 +1,5 @@
+amazon\qa\testcases\PwdSignInPageTest.class
+amazon\qa\testcases\CreateAccountPageTest.class
+amazon\qa\testcases\UserAccountPageTest.class
+amazon\qa\testcases\EmailSignInPageTest.class
+amazon\qa\testcases\HomePageTest.class

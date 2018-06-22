@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Automation Test Suite" duration-ms="110469" started-at="2018-06-21T19:06:08Z" finished-at="2018-06-21T19:07:58Z">
+    <groups>
+    </groups>
+    <test name="Amazon application Testcases" duration-ms="110469" started-at="2018-06-21T19:06:08Z" finished-at="2018-06-21T19:07:58Z">
+      <class name="amazon.qa.testcases.UserAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.UserAccountPageTest@2a079c]" name="setup" is-config="true" duration-ms="19037" started-at="2018-06-21T12:06:56Z" finished-at="2018-06-21T12:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="UserAccntTest()[pri:1, instance:amazon.qa.testcases.UserAccountPageTest@2a079c]" name="UserAccntTest" duration-ms="59" started-at="2018-06-21T12:07:16Z" finished-at="2018-06-21T12:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserAccntTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.UserAccountPageTest@2a079c]" name="teardown" is-config="true" duration-ms="2652" started-at="2018-06-21T12:07:16Z" finished-at="2018-06-21T12:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.UserAccountPageTest -->
+      <class name="amazon.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="setup" is-config="true" duration-ms="11167" started-at="2018-06-21T12:06:08Z" finished-at="2018-06-21T12:06:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AmazonLogoTest()[pri:1, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="AmazonLogoTest" duration-ms="204" started-at="2018-06-21T12:06:19Z" finished-at="2018-06-21T12:06:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonLogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="teardown" is-config="true" duration-ms="629" started-at="2018-06-21T12:06:19Z" finished-at="2018-06-21T12:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="setup" is-config="true" duration-ms="10346" started-at="2018-06-21T12:07:18Z" finished-at="2018-06-21T12:07:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SigninTest()[pri:2, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="SigninTest" duration-ms="1006" started-at="2018-06-21T12:07:29Z" finished-at="2018-06-21T12:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="teardown" is-config="true" duration-ms="657" started-at="2018-06-21T12:07:30Z" finished-at="2018-06-21T12:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="setup" is-config="true" duration-ms="9801" started-at="2018-06-21T12:07:46Z" finished-at="2018-06-21T12:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GiftCardsTest()[pri:3, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="GiftCardsTest" duration-ms="2058" started-at="2018-06-21T12:07:56Z" finished-at="2018-06-21T12:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.HomePageTest@9838eb]" name="teardown" is-config="true" duration-ms="659" started-at="2018-06-21T12:07:58Z" finished-at="2018-06-21T12:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.HomePageTest -->
+      <class name="amazon.qa.testcases.EmailSignInPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="setup" is-config="true" duration-ms="12113" started-at="2018-06-21T12:06:20Z" finished-at="2018-06-21T12:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="emailTest()[pri:1, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="emailTest" duration-ms="708" started-at="2018-06-21T12:06:32Z" finished-at="2018-06-21T12:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="teardown" is-config="true" duration-ms="3674" started-at="2018-06-21T12:06:33Z" finished-at="2018-06-21T12:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="setup" is-config="true" duration-ms="11461" started-at="2018-06-21T12:07:30Z" finished-at="2018-06-21T12:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAccountPageTest()[pri:2, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="createAccountPageTest" duration-ms="368" started-at="2018-06-21T12:07:42Z" finished-at="2018-06-21T12:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountPageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.EmailSignInPageTest@dafa95]" name="teardown" is-config="true" duration-ms="3667" started-at="2018-06-21T12:07:42Z" finished-at="2018-06-21T12:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.EmailSignInPageTest -->
+      <class name="amazon.qa.testcases.PwdSignInPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amazon.qa.testcases.PwdSignInPageTest@100df86]" name="setup" is-config="true" duration-ms="11623" started-at="2018-06-21T12:06:36Z" finished-at="2018-06-21T12:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pwdTest()[pri:1, instance:amazon.qa.testcases.PwdSignInPageTest@100df86]" name="pwdTest" duration-ms="4885" started-at="2018-06-21T12:06:48Z" finished-at="2018-06-21T12:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pwdTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:amazon.qa.testcases.PwdSignInPageTest@100df86]" name="teardown" is-config="true" duration-ms="3649" started-at="2018-06-21T12:06:53Z" finished-at="2018-06-21T12:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.qa.testcases.PwdSignInPageTest -->
+    </test> <!-- Amazon application Testcases -->
+  </suite> <!-- Amazon Automation Test Suite -->
+</testng-results>

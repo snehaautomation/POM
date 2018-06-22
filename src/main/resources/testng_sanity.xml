@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Automation Test Suite" >
+  <test name="Amazon application Testcases">
+    <classes>
+      <class name="amazon.qa.testcases.HomePageTest"/>
+      <class name="amazon.qa.testcases.EmailSignInPageTest"/>
+      <class name="amazon.qa.testcases.PwdSignInPageTest"/>
+    </classes>
+  </test> 
+</suite> 

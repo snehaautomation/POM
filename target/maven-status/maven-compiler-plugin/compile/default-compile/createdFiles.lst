@@ -1,0 +1,10 @@
+amazon\qa\pages\SignInPage.class
+amazon\qa\pages\CreateAccountPage.class
+amazon\qa\pages\GiftCardsPage.class
+amazon\qa\pages\UserAccountPage.class
+amazon\qa\ExtentReportListener\ExtentReporterNG.class
+amazon\qa\pages\HomePage.class
+amazon\qa\pages\pwdSignPage.class
+amazon\qa\base\TestBase.class
+amazon\qa\util\WebEventListener.class
+amazon\qa\util\TestUtil.class

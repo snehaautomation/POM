@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Automation Test Suite" preserve-order="true">
+
+<listeners>
+<listener class-name="amazon.qa.ExtentReportListener.ExtentReporterNG">
+</listener>
+</listeners>
+
+
+  <test name="Amazon application Testcases" preserve-order="true">
+    <classes>
+      <class name="amazon.qa.testcases.HomePageTest"/>
+      <class name="amazon.qa.testcases.EmailSignInPageTest"/>
+      <class name="amazon.qa.testcases.PwdSignInPageTest"/>
+      <class name="amazon.qa.testcases.UserAccountPageTest"/>
+    </classes>
+  </test> 
+</suite> 
